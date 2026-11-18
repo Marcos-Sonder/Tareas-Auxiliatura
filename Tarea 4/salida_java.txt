@@ -1,0 +1,3 @@
+Artista con mayor experiencia: davinci
+Anos de experiencia: 20
+Monto total de venta: 2.4
